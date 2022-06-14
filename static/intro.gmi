@@ -1,0 +1,18 @@
+# Hello wanderer!
+```
+            _                                    _      ___      _   _     
+           | |                                  | |    / _ \    (_) (_)    
+  ___ _   _| |__   ___ _ __ _ __  ___ _   _  ___| |__ | | | |___ _   _ ___ 
+ / __| | | | '_ \ / _ \ '__| '_ \/ __| | | |/ __| '_ \| | | / __| | | / __|
+| (__| |_| | |_) |  __/ |  | |_) \__ \ |_| | (__| | | | |_| \__ \ |_| \__ \
+ \___|\__, |_.__/ \___|_|  | .__/|___/\__, |\___|_| |_|\___/|___/_(_)_|___/
+       __/ |               | |         __/ |                               
+      |___/                |_|        |___/                                
+```
+This capsule serves as my personal blog-like space where I publish my thoughts. Right now its a work in progress but that'll change! In the meantime, visit my main homepage hosted on HTTPS. You find the Link on the bottom of the page.
+
+## Why Gemini? You already have a Homepage!
+I wanted to try it.
+
+## Subscribe via Atom
+=> /feed.xml Atom

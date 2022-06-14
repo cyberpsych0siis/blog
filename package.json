@@ -1,0 +1,13 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1",
+    "feed": "^4.2.2",
+    "gemini-server": "^1.8.0"
+  }
+}
