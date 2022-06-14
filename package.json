@@ -5,6 +5,9 @@
   "license": "MIT",
   "private": true,
   "type": "module",
+  "scripts": {
+    "generate:certs": "openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -nodes -subj '/CN=gemini.cyberpsych0si.is'"
+  },
   "dependencies": {
     "express": "^4.18.1",
     "feed": "^4.2.2",
