@@ -32,6 +32,6 @@ export function getFeed() {
             updated: page.updated
         });
     }
-    console.log("sent feed");
+    // console.log("sent feed");
     return feed.atom1();
 }

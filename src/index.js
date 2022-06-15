@@ -6,9 +6,9 @@ import run from './http.js';
 import { getFeed } from './feed.js';
 
 const options = {
-    cert: fs.readFileSync("cert.pem"),
-    key: fs.readFileSync("key.pem"),
-  };
+  cert: fs.readFileSync("cert.pem"),
+  key: fs.readFileSync("key.pem"),
+};
 
 const app = gemini(options);
 

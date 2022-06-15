@@ -13,6 +13,3 @@ This capsule serves as my personal blog-like space where I publish my thoughts. 
 
 ## Why Gemini? You already have a Homepage!
 I wanted to try it.
-
-## Subscribe via Atom
-=> /feed.xml Atom

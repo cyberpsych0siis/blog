@@ -8,7 +8,7 @@ export function getAllPosts() {
         return "No posts found yet, come back later again :)"
     } else {
         return mapped.map(e => {
-            console.log(e);
+            // console.log(e);
             return "=>" + e.href + " " + e.title;
         })
     }
